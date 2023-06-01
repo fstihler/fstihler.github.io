@@ -14,6 +14,7 @@ header {
   background-color: #0d1821;
   color: #f5f5f5;
   padding: 20px;
+  margin-left: -20px; /* reduce left margin */
 }
 
 nav ul {
